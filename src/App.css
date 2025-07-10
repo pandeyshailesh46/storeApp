@@ -1,0 +1,25 @@
+.App {
+        background: #222;
+        color: #fff;
+}
+.equal-img {
+  height: 250px;
+  object-fit: cover;
+  width: 100%;
+}
+span.price{
+   font-weight:bold;
+   font-size: 1rem;
+}
+span.category {
+  display: "block";
+  font-size: .85rem;
+  color: #948f8f;
+}
+.form-check {
+  font-size: .85rem;
+   color: #948f8f;
+}
+.card .titles {
+  font-size: .85rem;
+}
