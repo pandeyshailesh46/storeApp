@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 import { searchProducts, clearFilters } from "../../features/products/productSlice";
 import { useSearchParams } from "react-router-dom";
 
-const SearchBar = () => {
+const SearchBar = () => { 
   const [search, setSearch] = useState("");
   const [searchParams, setSearchParams] = useSearchParams();
   const dispatch = useDispatch();
