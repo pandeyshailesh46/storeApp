@@ -1,0 +1,19 @@
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 15px;
+}
+
+.image-card {
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  overflow: hidden;
+  min-height: 200px;
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

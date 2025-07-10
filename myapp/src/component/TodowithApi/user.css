@@ -1,0 +1,32 @@
+.todos-block ,.todos-list{ width: 100%; max-width: 1000px; margin: auto;}
+input[ type='text'] { 
+    border: 1px solid #ccc; 
+    margin-bottom: 10px;
+    width: 50%; height: 20px; padding: 10px; font-size: 14px;}
+button {
+    color: #fff;
+    padding: 11px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+    background: rgb(16, 65, 43); border: 1px solid rgb(16, 65, 43);
+}   
+button:hover {
+    background: rgb(68, 129, 102) ;
+}
+
+.country {
+    display: block;
+}
+.country label {
+    display: block;
+    padding: 10px 0;
+}
+.country select {
+    border: 1px solid #ccc; 
+    margin-bottom: 10px;
+    width: 50%; padding: 10px; font-size: 14px;
+}

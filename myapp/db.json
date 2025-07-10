@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "fname": "Shailesh Kumar",
+      "designation": "React Js",
+      "salary": "5000",
+      "gender": "Male",
+      "hobbies": [
+        "reading",
+        "cricket"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "3",
+      "fname": "Sachin",
+      "designation": "UI",
+      "salary": "8000",
+      "gender": "Male",
+      "hobbies": [
+        "singing",
+        "cricket"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "4",
+      "fname": "Shivan",
+      "designation": "React Js",
+      "salary": "80009",
+      "gender": "Male",
+      "hobbies": [
+        "reading"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "bf55",
+      "fname": "Rakesh",
+      "designation": "UI",
+      "salary": "89000",
+      "gender": "Male",
+      "hobbies": [
+        "reading",
+        "traveling",
+        "cricket"
+      ],
+      "country": "USA"
+    },
+    {
+      "id": "e006",
+      "fname": "Test",
+      "designation": "test",
+      "salary": "345454343",
+      "gender": "Female",
+      "hobbies": [
+        "reading",
+        "traveling"
+      ],
+      "country": "India"
+    },
+    {
+      "id": "2248",
+      "fname": "Shailesh Kumar",
+      "designation": "Frontend Developer",
+      "salary": "5000000",
+      "gender": "Male",
+      "hobbies": [
+        "reading",
+        "traveling",
+        "cricket"
+      ],
+      "country": "USA"
+    }
+  ]
+}
